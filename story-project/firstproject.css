@@ -1,0 +1,102 @@
+/* CSS Document */
+
+body {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+	background-color:ivory;
+	margin:75px;
+	text-align:center;
+	}
+	
+a:link{
+	font-size: 18px;
+	color: red;
+	}
+	
+a:hover{
+	color:black;
+	font-size:38px;
+	}
+	
+h1 {
+	font-family:centurygothic;
+	font-size:72px;
+	color:red;
+	text-align:center;
+	}
+	
+	
+p#one {
+	font-size:18px;
+	text-align:center;
+	}
+	
+p#two {
+	font-size:18px;
+	text-align:center;
+	}
+	
+p#three {
+	font-size:18px;
+	text-align:center;
+	}
+	
+p#four {
+	font-size:18px;
+	text-align:center;
+	}
+	
+p#five {
+	font-size:18px;
+	text-align:center;	
+	}
+	
+p#six {
+	font-size:18px;
+	text-align:center;	
+	}
+	
+p#seven {
+	font-size:18px;
+	text-align:center;
+	}
+	
+p#eight {
+	font-size:18px;
+	text-align:center;	
+	}
+	
+p#nine {
+	font-size:18px;
+	text-align:center;	
+	}
+	
+p#ten {
+	font-size:18px;
+	text-align:center;	
+	}
+	
+p#eleven {
+	font-size:18px;
+	text-align:center;	
+	}
+	
+p#twelve {
+	font-size:18px;
+	text-align:center;	
+	}
+	
+p#thirteen {
+	font-size:18px;
+	text-align:center;	
+	}
+	
+p#fourteen {
+	font-size:18px;
+	text-align:center;	
+	}
+	
+p#fifteen {
+	font-size:18px;
+	text-align:center;
+	}
+
